@@ -5,14 +5,14 @@ Filer til bruk av Yolo-trening
 Under mappen "CFG" finn du ulike cfg filer for å trene opp ulike versjonar av Yolo
 Last ned/kopier ønska cfg fil, og gjer endringar i fila i henhold til prosedyren
 
-##.DATA og .NAMES
+## .DATA og .NAMES
 Under mappen "DATA og NAMES" finn du .DATA fil og .NAMES fil.
 Last ned/kopier desse to, og gjer endringar i henhold til prosedyre.
 
-#.NAMES
+# .NAMES
 .NAMES filen innholder kun navn på dei ulike klassene du skal trene algoritmen på
 
-#DATA
+# DATA
 .DATA filen skal vere ferdig tilpassa til bruk med tilhøyrande Google Colab Notebook.
 Du kan gjere endringar i .DATA filen om det er ønskelig, men du må då også huske å gjere endringar i COlab Notebooken.
 
