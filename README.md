@@ -1,6 +1,9 @@
 # Yolo_filer
 Filer til bruk av Yolo-trening
 
+## "Colab Notatbok"
+Under mappen "Colab Notatbok" finner du en nedlastbar Colab Notatbok, som du kan bruke til å trene opp Yolo V3 Tiny.
+Du kan i tillegg utføre validering på den ferdigtrente vektfilen.
 ## .CFG
 Under mappen "CFG" finn du ulike cfg filer for å trene opp ulike versjonar av Yolo
 Last ned/kopier ønska cfg fil, og gjer endringar i fila i henhold til prosedyren
